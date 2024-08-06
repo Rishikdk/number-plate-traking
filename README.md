@@ -39,4 +39,4 @@ torch.cuda.is_available()
 
 
 if face any kind of problem feel free to contact me 
-via email:rishi61802gmail.com
+via email:rishikhadka6180@gmail.com
