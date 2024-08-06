@@ -1,0 +1,13 @@
+train: D:\Python\traking/yolov8/datasate/train/images
+val: D:\Python\traking/yolov8/datasate/valid/images
+test: D:\Python\traking/yolov8/datasate/test/images
+
+nc: 1
+names: ["Char"]
+
+roboflow:
+  workspace: fyp-munle
+  project: charactersegment
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fyp-munle/charactersegment/dataset/1

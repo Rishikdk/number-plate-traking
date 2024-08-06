@@ -1,0 +1,5 @@
+.env
+_pycache_
+Output
+yolov8n.pt
+runs
