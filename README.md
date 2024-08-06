@@ -36,3 +36,7 @@ yolo task=detect mode=predict model=yolov8m.pt conf=0.5 source='img/R.jpeg'
 python
 import torch
 torch.cuda.is_available()
+
+
+if face any kind of problem feel free to contact me 
+via email:rishi61802gmail.com
