@@ -2,7 +2,7 @@ To set up yolov8 or any version of the yolo your python version should be greate
 or 
 you can go to https://docs.ultralytics.com/ 
 
-Make sure that your version should be same
+Make sure that your version should be same in terms of python recommandations
 
 step-1 
 set up environment
